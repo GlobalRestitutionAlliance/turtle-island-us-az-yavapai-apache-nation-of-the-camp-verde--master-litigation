@@ -1,6 +1,6 @@
 # US AZ YAVAPAI APACHE NATION OF THE CAMP VERDE - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
